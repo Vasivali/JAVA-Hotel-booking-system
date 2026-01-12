@@ -26,5 +26,3 @@ public class LuxuryRoom extends Room {
         return price;
     }
 }
-// Βαλλιανάτος Βασίλειος icsd22010
-// Κοκκινάκης Γεώργιος icsd24093
