@@ -9,8 +9,7 @@ import java.time.LocalDate;
 import java.time.YearMonth;
 import java.util.*;
 
-// Βαλλιανάτος Βασίλειος icsd22010
-// Κοκκινάκης Γεώργιος icsd24093
+
 
 public class HotelFXApp extends Application {
 
