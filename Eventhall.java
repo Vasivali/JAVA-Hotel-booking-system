@@ -24,5 +24,3 @@ public class Eventhall implements Rentable {
     }
 }
 
-// Βαλλιανάτος Βασίλειος icsd22010
-// Κοκκινάκης Γεώργιος icsd24093
