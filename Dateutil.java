@@ -11,5 +11,3 @@ public final class Dateutil {
     }
 }
 
-// Βαλλιανάτος Βασίλειος icsd22010
-// Κοκκινάκης Γεώργιος icsd24093
