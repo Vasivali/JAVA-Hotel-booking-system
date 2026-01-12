@@ -14,5 +14,3 @@ public abstract class Vehicle implements Rentable {
     }
 }
 
-// Βαλλιανάτος Βασίλειος icsd22010
-// Κοκκινάκης Γεώργιος icsd24093
