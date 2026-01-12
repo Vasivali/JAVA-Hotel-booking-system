@@ -10,8 +10,7 @@ public class CommonRoom extends Room {
         return "Common Room";
     }
 
-    // Βαλλιανάτος Βασίλειος icsd22010
-// Κοκκινάκης Γεώργιος icsd24093
+    
 
     public double getDailyCost() {
         double multiplier;
