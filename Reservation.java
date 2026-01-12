@@ -1,8 +1,7 @@
 import java.time.LocalDate;
 import java.time.temporal.ChronoUnit;
 
-// Βαλλιανάτος Βασίλειος icsd22010
-// Κοκκινάκης Γεώργιος icsd24093
+
 
 public class Reservation {
     private static int NEXT_ID = 1000;
