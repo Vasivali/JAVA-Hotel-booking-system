@@ -12,5 +12,3 @@ public class ATV extends Vehicle {
     }
 }
 
-// Βαλλιανάτος Βασίλειος icsd22010
-// Κοκκινάκης Γεώργιος icsd24093
