@@ -3,8 +3,7 @@ public abstract class Room implements Rentable {
     private final Bedtype bedtype;
     private final boolean hasView;
     
-// Βαλλιανάτος Βασίλειος icsd22010
-// Κοκκινάκης Γεώργιος icsd24093
+
 
     protected Room(String roomId, Bedtype bedtype, boolean hasView) {
         if (roomId == null || roomId.trim().isEmpty()) {
